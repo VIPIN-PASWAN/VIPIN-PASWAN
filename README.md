@@ -1,4 +1,9 @@
-- 👋 Hi, I’m @VIPIN-PASWAN
+<img alt="GIF"  height="205px" align="center" src="https://media.giphy.com/media/AOSwwqVjNZlDO/giphy.gif" />
+
+<h1 align="center">Hello this is VIPIN PASWAN</h1>
+
+## 🙋‍♂️ About Me
+
 - 👀 I’m interested in Game Development and Web Development
 - 🌱 I’m currently learning DSA and UE4.
 - 💞️ I’m looking to collaborate on OpenSource Projects.
