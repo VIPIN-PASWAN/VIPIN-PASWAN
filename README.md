@@ -5,7 +5,7 @@
 ## 🙋‍♂️ About Me
 
 - 👀 I’m interested in Game Development and Web Development
-- 🌱 I’m currently learning DSA and UE4.
+- 🌱 I’m currently learning DSA and Dango.
 - 💞️ I’m looking to collaborate on OpenSource Projects.
 - 📫 I  am a Video Editor too.
 
