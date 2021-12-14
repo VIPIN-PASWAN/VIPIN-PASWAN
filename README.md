@@ -4,10 +4,10 @@
 
 ## 🙋‍♂️ About Me
 
-- 👀 I’m interested in Game Development and Web Development
-- 🌱 I’m currently learning DSA and Dango.
-- 💞️ I’m looking to collaborate on OpenSource Projects.
-- 📫 I  am a Video Editor too.
+- I’m interested in Game Development and Web Development
+- I’m currently learning DSA and Dango.
+- I’m looking to collaborate on OpenSource Projects.
+- I  am a Video Editor too.
 
 <!---
 VIPIN-PASWAN/VIPIN-PASWAN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
