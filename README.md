@@ -7,7 +7,7 @@
   ## 👨‍💼 About Me
 
 - I’m interested in Game Development and Web Development
-- I’m currently learning DSA and Dango.
+- I’m currently learning DSA and Django.
 - I’m looking to collaborate on OpenSource Projects.
 - I'm a Video Editor too.
 
