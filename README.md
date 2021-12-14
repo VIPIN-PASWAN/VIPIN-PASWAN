@@ -13,3 +13,6 @@
 VIPIN-PASWAN/VIPIN-PASWAN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vipin-paswan&show_icons=true&theme=vue" alt="VIPIN-PASWAN" /></p>
