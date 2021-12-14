@@ -17,6 +17,4 @@ VIPIN-PASWAN/VIPIN-PASWAN is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=vipin-paswan&show_icons=true&theme=vue" alt="VIPIN-PASWAN" /> 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipin-paswan&layout=compact&theme=vue&hide_border=true" />
+<img align="center" style="width:50%; float=left; margin=5%;" src="https://github-readme-stats.vercel.app/api?username=vipin-paswan&show_icons=true&theme=vue" alt="VIPIN-PASWAN" /><img align="center" style="width:42%; float=right; margin=5%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipin-paswan&layout=compact&theme=vue&hide_border=true" />
